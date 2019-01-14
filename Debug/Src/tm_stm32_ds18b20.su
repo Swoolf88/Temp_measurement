@@ -1,0 +1,11 @@
+tm_stm32_ds18b20.c:28:9:TM_DS18B20_Start	16	static
+tm_stm32_ds18b20.c:44:6:TM_DS18B20_StartAll	8	static
+tm_stm32_ds18b20.c:53:9:TM_DS18B20_Read	40	static
+tm_stm32_ds18b20.c:154:9:TM_DS18B20_GetResolution	16	static
+tm_stm32_ds18b20.c:181:9:TM_DS18B20_SetResolution	32	static
+tm_stm32_ds18b20.c:238:9:TM_DS18B20_Is	0	static
+tm_stm32_ds18b20.c:246:9:TM_DS18B20_SetAlarmLowTemperature	24	static
+tm_stm32_ds18b20.c:296:9:TM_DS18B20_SetAlarmHighTemperature	24	static
+tm_stm32_ds18b20.c:346:9:TM_DS18B20_DisableAlarmTemperature	16	static
+tm_stm32_ds18b20.c:391:9:TM_DS18B20_AlarmSearch	0	static
+tm_stm32_ds18b20.c:396:9:TM_DS18B20_AllDone	0	static

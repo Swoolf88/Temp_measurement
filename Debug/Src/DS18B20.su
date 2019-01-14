@@ -1,0 +1,5 @@
+DS18B20.c:73:7:delayDS	0	static
+DS18B20.c:196:14:SendInit	8	static
+DS18B20.c:212:14:SendDS	16	static
+DS18B20.c:236:17:ReadDS	16	static
+DS18B20.c:89:7:checkDS	40	static
